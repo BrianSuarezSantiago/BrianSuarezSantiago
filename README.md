@@ -40,6 +40,8 @@
 <img src="./images/Bash.svg" alt="Bash" width="30" height="30"/>
 <img src="./images/HTML5.png" alt="HTML5" width="30" height="30"/>
 <img src="./images/CSS3.svg" alt="CSS3" width="30" height="30"/>
+<img src="./images/JavaScript.svg" alt="JavaScript" width="30" height="30"/>
+<img src="./images/ReactJS.svg" alt="ReactJS" width="30" height="30"/>
 <img src="./images/Docker.svg" alt="Docker" width="30" height="30"/>
 <img src="./images/TensorFlow.svg" alt="TensorFlow" width="30" height="30"/>
 <img src="./images/Figma.svg" alt="Figma" width="30" height="30"/>
